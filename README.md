@@ -1,4 +1,4 @@
-# Hashing-Algorithm
+# Hashing-Algorithm using MIPS processor instruction set
 A Hash Function (H) takes a variable-length block of data and returns a hash value of a fixed size. A good hash function has a property that when it is applied to a large number of inputs, the outputs will be evenly distributed and appear random. Generally, the primary purpose of a hash function is to maintain data integrity. Any change to any bits or bits in the results will result in a change in the hash code, with a high probability.
 
 The type of hash function that is needed for security purposes is called a cryptographic hash function.
