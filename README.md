@@ -5,7 +5,9 @@ The type of hash function that is needed for security purposes is called a crypt
 
 A cryptographic hash function (or cryptographic hash algorithm) is an algorithm that is not computationally efficient (no attack is more efficient than brute force) when it is used to find either:
 
-1-A data object which maps to a predefined hash result
+1-A data object which maps to a predefined hash result.
+
 2-Two data objects that map to the hash result in collision-free property.
+
 Because of these properties, a hash function is often used to check whether data has changed.
 ![image](https://github.com/user-attachments/assets/23fe6f94-5ebe-4d85-92ff-e18da5fdef33)
